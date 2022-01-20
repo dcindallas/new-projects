@@ -1,0 +1,11 @@
+// Hello World
+// Duane Cummins Thursday_January_20_2022
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout<<"Hello World\nI am learning \"C++\"\n";
+    return 0;
+}
